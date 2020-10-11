@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "516614432595",
+    "firebase_url": "https://login-page-b7738.firebaseio.com",
+    "project_id": "login-page-b7738",
+    "storage_bucket": "login-page-b7738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516614432595:android:c0f8d5f37f9b0817da23a6",
+        "android_client_info": {
+          "package_name": "neha.animated_loginpage_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516614432595-1ou635dh3ncqvkv4vdfcs9746aje1me6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDigKHZrNV1OCN8dfnBqoOUrHnezj9J48M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516614432595-1ou635dh3ncqvkv4vdfcs9746aje1me6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
